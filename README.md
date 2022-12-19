@@ -38,11 +38,11 @@
 ### 진행상황확인 (예시)
 |구분| 진행상태                 |학습날자|일차| 교육생학번      | 과제번호 | 과제명                    | 과제제출경로                                                                      |
 | ------ |----------------------| ------ | ------ |------------|------|------------------------|-----------------------------------------------------------------------------|
-|`필수 1` | :white_check_mark:                  |2022.12.19|1| 교육생학번      | 1    | Jmeter를 이용한 웹페이지 성능 측정 | https://lab.ssafy.com/{교육생NameSpace}/self-project/con04/{과제번호}/{교육생번호}.zip  |
-|선택 | :white_check_mark:   |2022.12.19|1| 교육생학번 | 3    | 코딩 테스트 채점 서버 만들기       | https://lab.ssafy.com/{교육생NameSpace}/self-project/{관리번호}/{과제번호}/{교육생번호}.zip |
-|선택| |2022.12.19|1| 교육생학번 | 0    | [과제명]                  | https://lab.ssafy.com/{교육생NameSpace}/self-project/{관리번호}/{과제번호}/{교육생번호}.zip |
-|선택| |2022.12.20|2| 교육생학번 | 0    | [과제명]                  | https://lab.ssafy.com/{교육생NameSpace}/self-project/{관리번호}/{과제번호}/{교육생번호}.zip |
-|선택| |2022.12.21|3| 교육생학번 | 0    | [과제명]                  | https://lab.ssafy.com/{교육생NameSpace}/self-project/{관리번호}/{과제번호}/{교육생번호}.zip |
+|`필수 1` | :white_check_mark:                  |2022.12.19|1| 교육생학번      | 1    | Jmeter를 이용한 웹페이지 성능 측정 | https://lab.ssafy.com/{교육생namespace}/self-project/con04/{과제번호}/{교육생번호}.zip  |
+|선택 | :white_check_mark:   |2022.12.19|1| 교육생학번 | 3    | 코딩 테스트 채점 서버 만들기       | https://lab.ssafy.com/{교육생namespace}/self-project/{관리번호}/{과제번호}/{교육생번호}.zip |
+|선택| |2022.12.19|1| 교육생학번 | 0    | [과제명]                  | https://lab.ssafy.com/{교육생namespace}/self-project/{관리번호}/{과제번호}/{교육생번호}.zip |
+|선택| |2022.12.20|2| 교육생학번 | 0    | [과제명]                  | https://lab.ssafy.com/{교육생namespace}/self-project/{관리번호}/{과제번호}/{교육생번호}.zip |
+|선택| |2022.12.21|3| 교육생학번 | 0    | [과제명]                  | https://lab.ssafy.com/{교육생namespace}/self-project/{관리번호}/{과제번호}/{교육생번호}.zip |
 
 
 
