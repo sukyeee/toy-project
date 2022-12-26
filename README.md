@@ -16,20 +16,19 @@
 ### 2일차
 |구분|진행상태|학습시간|단계|분야|과제명|제출 경로|
 |----|----|----|----|----|----|----|
-|`필수3`|||2. 설계|분석/설계|DB설계, ERD 작성 실습|https://lab.ssafy.com/{교육생NameSpace}/self-project/con15/rep01/교육생번호.zip|
-|`필수4`|||2. 설계|분석/설계|코딩 컨벤션 적용|https://lab.ssafy.com/{교육생NameSpace}/self-project/con02/rep02/교육생번호.zip|
+|`필수3`|:white_check_mark:||2. 설계|분석/설계|DB설계, ERD 작성 실습|https://lab.ssafy.com/{교육생NameSpace}/self-project/con15/rep01/교육생번호.zip|
+|`필수4`|:white_check_mark:||2. 설계|분석/설계|코딩 컨벤션 적용|https://lab.ssafy.com/{교육생NameSpace}/self-project/con02/rep02/교육생번호.zip|
 |선택|:white_large_square:||[단계 추가]|[분야 추가]|[프로젝트 추가]||
 |선택|:white_large_square:||[단계 추가]|[분야 추가]|[프로젝트 추가]||
 |선택|:white_large_square:||[단계 추가]|[분야 추가]|[프로젝트 추가]||
-
 
 ---
 
 ### 3일차
 |구분|진행상태|학습시간|단계|분야|과제명|제출 경로|
 |----|----|----|----|----|----|----|
-|`필수5`|||3. 개발|구현/개발|비동기 프로그래밍|https://lab.ssafy.com/{교육생NameSpace}/self-project/con14/rep01/교육생번호.zip|
-|`필수6`|||3. 개발|구현/개발|내 안드로이드 앱에 구글맵 띄우기|https://lab.ssafy.com/{교육생NameSpace}/self-project/con03/rep01/교육생번호.zip|
+|`필수5`|:white_check_mark:||3. 개발|구현/개발|비동기 프로그래밍|https://lab.ssafy.com/{교육생NameSpace}/self-project/con14/rep01/교육생번호.zip|
+|`필수6`|:white_check_mark:||3. 개발|구현/개발|내 안드로이드 앱에 구글맵 띄우기|https://lab.ssafy.com/{교육생NameSpace}/self-project/con03/rep01/교육생번호.zip|
 |선택|:white_large_square:||[단계 추가]|[분야 추가]|[프로젝트 추가]||
 |선택|:white_large_square:||[단계 추가]|[분야 추가]|[프로젝트 추가]||
 |선택|:white_large_square:||[단계 추가]|[분야 추가]|[프로젝트 추가]||
@@ -39,8 +38,8 @@
 ### 4일차
 |구분|진행상태|학습시간|단계|분야|과제명|제출 경로|
 |----|----|----|----|----|----|----|
-|`필수7`|||3. 개발|구현/개발|멀티스레드 채팅 서버 구현|https://lab.ssafy.com/{교육생NameSpace}/self-project/con16/rep03/교육생번호.zip|
-|`필수8`|||3. 개발|구현/개발|Mysql Event Scheduler를 이용한 스케쥴러 개발|https://lab.ssafy.com/{교육생NameSpace}/self-project/con16/rep01/교육생번호.zip|
+|`필수7`|:white_check_mark:||3. 개발|구현/개발|멀티스레드 채팅 서버 구현|https://lab.ssafy.com/{교육생NameSpace}/self-project/con16/rep03/교육생번호.zip|
+|`필수8`|:white_check_mark:||3. 개발|구현/개발|Mysql Event Scheduler를 이용한 스케쥴러 개발|https://lab.ssafy.com/{교육생NameSpace}/self-project/con16/rep01/교육생번호.zip|
 |선택|:white_large_square:||[단계 추가]|[분야 추가]|[프로젝트 추가]||
 |선택|:white_large_square:||[단계 추가]|[분야 추가]|[프로젝트 추가]||
 |선택|:white_large_square:||[단계 추가]|[분야 추가]|[프로젝트 추가]||
@@ -50,8 +49,8 @@
 ### 5일차
 |구분|진행상태|학습시간|단계|분야|과제명|제출 경로|
 |----|----|----|----|----|----|----|
-|`필수9`|||4. 테스트|테스트/유지보수|부하 테스트 도구를 이용한 웹 페이지 성능 측정|https://lab.ssafy.com/{교육생NameSpace}/self-project/con04/rep02/교육생번호.zip|
-|`필수10`|||6. 유지보수|테스트/유지보수|유지보수를 위한 로깅(Logging)|https://lab.ssafy.com/{교육생NameSpace}/self-project/con12/rep02/교육생번호.zip|
+|`필수9`|:white_check_mark:||4. 테스트|테스트/유지보수|부하 테스트 도구를 이용한 웹 페이지 성능 측정|https://lab.ssafy.com/{교육생NameSpace}/self-project/con04/rep02/교육생번호.zip|
+|`필수10`|:white_check_mark:||6. 유지보수|테스트/유지보수|유지보수를 위한 로깅(Logging)|https://lab.ssafy.com/{교육생NameSpace}/self-project/con12/rep02/교육생번호.zip|
 |선택|:white_large_square:||[단계 추가]|[분야 추가]|[프로젝트 추가]||
 |선택|:white_large_square:||[단계 추가]|[분야 추가]|[프로젝트 추가]||
 |선택|:white_large_square:||[단계 추가]|[분야 추가]|[프로젝트 추가]||
