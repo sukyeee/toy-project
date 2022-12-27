@@ -71,7 +71,7 @@
 |선택6|상|3. 개발|최적화|웹 어플리케이션 캐시 적용|https://lab.ssafy.com/{교육생NameSpace}/self-project/con16/rep02/교육생번호.zip|
 |선택7|상|3. 개발|웹|코딩 테스트 채점 서버 만들기|https://lab.ssafy.com/{교육생NameSpace}/self-project/con11/rep01/교육생번호.zip|
 |선택8|상|3. 개발|프로그래밍|Collection 활용|https://lab.ssafy.com/{교육생NameSpace}/self-project/con14/rep02/교육생번호.zip|
-|선택9|중|3. 개발|웹|Create Next App + React + Typescript + next.js로 프론트엔드 프로젝트 토대 쌓기|https://lab.ssafy.com/{교육생NameSpace}/self-project/con11/rep02/교육생번호.zip|
+|선택9|중|3. 개발|웹|Create Next App + React + Typescript + next.js로 프론트엔드 프로젝트 토대 쌓기|https://lab.ssafy.com/jungly5935/self-project/con11/rep02/0855094.zip|
 |선택10|중|3. 개발|텍스트처리|MysqlMaria DB data processing|https://lab.ssafy.com/{교육생NameSpace}/self-project/con15/rep02/교육생번호.zip|
 |선택11|중|3. 개발|모바일|Google Flutter 기반의 크로스플랫폼 앱개발 입문|https://lab.ssafy.com/{교육생NameSpace}/self-project/con10/rep02/교육생번호.zip|
 |선택12|중|3. 개발|웹|Vue를 이용하여 채팅구현|https://lab.ssafy.com/{교육생NameSpace}/self-project/con05/rep01/교육생번호.zip|
@@ -93,3 +93,28 @@
 |선택28|하|6. 유지보수|DB|MariaDB 백업+복구 입문|https://lab.ssafy.com/{교육생NameSpace}/self-project/con06/rep01/교육생번호.zip|
 |선택29|하|6. 유지보수|유지보수|소프트웨어 유지보수|https://lab.ssafy.com/{교육생NameSpace}/self-project/con02/rep01/교육생번호.zip|
 |선택30|상|7. 기타|웹|CSR vs SSR|https://lab.ssafy.com/{교육생NameSpace}/self-project/con14/rep03/교육생번호.zip|
+
+
+
+
+
+<br><br><br>
+---
+### 완료된 필수 과제
+
+|순번|난이도|단계|분야|과제명|과제경로|
+|----|----|----|----|----|----|
+|`필수1`|:white_check_mark:||1. 요구사항 분석|SSAFY 생활|1학기와 2학기의 차이 & SSAFY GIT 실습|https://lab.ssafy.com/jungly5935/self-project/con13/rep01/0855094.zip|
+|`필수4`|:white_check_mark:||2. 설계|분석/설계|코딩 컨벤션 적용|https://lab.ssafy.com/jungly5935/self-project/con02/rep02/0855094.zip|
+
+  
+    
+---
+### 완료된 선택 과제
+
+|순번|난이도|단계|분야|과제명|과제경로|
+|----|----|----|----|----|----|
+|선택9|중|3. 개발|웹|Create Next App + React + Typescript + next.js로 프론트엔드 프로젝트 토대 쌓기|https://lab.ssafy.com/jungly5935/self-project/con11/rep02/0855094.zip|
+
+![제목 없음](https://user-images.githubusercontent.com/68285665/209637092-50d4f485-272b-424c-b5f5-cd64e1ac6a63.jpg)
+
