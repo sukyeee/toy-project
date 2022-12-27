@@ -5,8 +5,8 @@
 
 |구분|진행상태|학습시간|단계|분야|과제명|제출 경로|
 |----|----|----|----|----|----|----|
-|`필수1`|:white_check_mark:||1. 요구사항 분석|SSAFY 생활|1학기와 2학기의 차이 & SSAFY GIT 실습|https://lab.ssafy.com/{교육생NameSpace}/self-project/con13/rep01/교육생번호.zip|
-|`필수2`|:white_check_mark:||1. 요구사항 분석|분석/설계|명세서의 요구사항 분석하여 시스템 설계하기|https://lab.ssafy.com/{교육생NameSpace}/self-project/con09/rep01/교육생번호.zip|
+|`필수1`|:white_check_mark:||1. 요구사항 분석|SSAFY 생활|1학기와 2학기의 차이 & SSAFY GIT 실습|https://lab.ssafy.com/jungly5935/self-project/con13/rep01/0855094.zip|
+|`필수2`|:white_large_square:||1. 요구사항 분석|분석/설계|명세서의 요구사항 분석하여 시스템 설계하기|https://lab.ssafy.com/{교육생NameSpace}/self-project/con09/rep01/교육생번호.zip|
 |선택|:white_large_square:||[단계 추가]|[분야 추가]|[프로젝트 추가]||
 |선택|:white_large_square:||[단계 추가]|[분야 추가]|[프로젝트 추가]||
 |선택|:white_large_square:||[단계 추가]|[분야 추가]|[프로젝트 추가]||
@@ -16,8 +16,8 @@
 ### 2일차
 |구분|진행상태|학습시간|단계|분야|과제명|제출 경로|
 |----|----|----|----|----|----|----|
-|`필수3`|:white_check_mark:||2. 설계|분석/설계|DB설계, ERD 작성 실습|https://lab.ssafy.com/{교육생NameSpace}/self-project/con15/rep01/교육생번호.zip|
-|`필수4`|:white_check_mark:||2. 설계|분석/설계|코딩 컨벤션 적용|https://lab.ssafy.com/{교육생NameSpace}/self-project/con02/rep02/교육생번호.zip|
+|`필수3`|:white_large_square:||2. 설계|분석/설계|DB설계, ERD 작성 실습|https://lab.ssafy.com/{교육생NameSpace}/self-project/con15/rep01/교육생번호.zip|
+|`필수4`|:white_check_mark:||2. 설계|분석/설계|코딩 컨벤션 적용|https://lab.ssafy.com/jungly5935/self-project/con02/rep02/0855094.zip|
 |선택|:white_large_square:||[단계 추가]|[분야 추가]|[프로젝트 추가]||
 |선택|:white_large_square:||[단계 추가]|[분야 추가]|[프로젝트 추가]||
 |선택|:white_large_square:||[단계 추가]|[분야 추가]|[프로젝트 추가]||
