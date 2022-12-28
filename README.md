@@ -28,7 +28,7 @@
 |구분|진행상태|학습시간|단계|분야|과제명|제출 경로|
 |----|----|----|----|----|----|----|
 |`필수5`|:white_large_square:||3. 개발|구현/개발|비동기 프로그래밍|https://lab.ssafy.com/{교육생NameSpace}/self-project/con14/rep01/교육생번호.zip|
-|`필수6`|:white_large_square:||3. 개발|구현/개발|내 안드로이드 앱에 구글맵 띄우기|https://lab.ssafy.com/{교육생NameSpace}/self-project/con03/rep01/교육생번호.zip|
+|`필수6`|:white_check_mark:||3. 개발|구현/개발|내 안드로이드 앱에 구글맵 띄우기|https://lab.ssafy.com/jungly5935/self-project/con03/rep01/0855094.zip|
 |선택|:white_large_square:||[단계 추가]|[분야 추가]|[프로젝트 추가]||
 |선택|:white_large_square:||[단계 추가]|[분야 추가]|[프로젝트 추가]||
 |선택|:white_large_square:||[단계 추가]|[분야 추가]|[프로젝트 추가]||
@@ -106,6 +106,14 @@
 |----|----|----|----|----|----|
 |`필수1`|:white_check_mark:||1. 요구사항 분석|SSAFY 생활|1학기와 2학기의 차이 & SSAFY GIT 실습|https://lab.ssafy.com/jungly5935/self-project/con13/rep01/0855094.zip|
 |`필수4`|:white_check_mark:||2. 설계|분석/설계|코딩 컨벤션 적용|https://lab.ssafy.com/jungly5935/self-project/con02/rep02/0855094.zip|
+|`필수6`|:white_check_mark:||3. 개발|구현/개발|내 안드로이드 앱에 구글맵 띄우기|https://lab.ssafy.com/{교육생NameSpace}/self-project/con03/rep01/교육생번호.zip|
+
+<div align="center">
+
+![android](https://user-images.githubusercontent.com/68285665/209773136-01b99e7c-aa1c-426d-afb5-c94402d2fa41.png)
+
+</div>
+
 
   
     
@@ -117,4 +125,14 @@
 |선택9|중|3. 개발|웹|Create Next App + React + Typescript + next.js로 프론트엔드 프로젝트 토대 쌓기|https://lab.ssafy.com/jungly5935/self-project/con11/rep02/0855094.zip|
 
 ![제목 없음](https://user-images.githubusercontent.com/68285665/209637092-50d4f485-272b-424c-b5f5-cd64e1ac6a63.jpg)
+
+|순번|난이도|단계|분야|과제명|과제경로|
+|----|----|----|----|----|----|
+|선택12|중|3. 개발|웹|Vue를 이용하여 채팅구현|https://lab.ssafy.com/jungly5935/self-project/con05/rep01/0855094.zip|
+
+<div align="center">
+
+![chat1](https://user-images.githubusercontent.com/68285665/209773296-7fc80a33-6b57-46a7-9a6f-d28284e937e2.png)
+![chat2](https://user-images.githubusercontent.com/68285665/209773302-64f15372-2190-498b-a5ad-5990ecc140b1.png)
+</div>
 
