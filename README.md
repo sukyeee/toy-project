@@ -110,7 +110,8 @@
 
 <div align="center">
 
-![android](https://user-images.githubusercontent.com/68285665/209773136-01b99e7c-aa1c-426d-afb5-c94402d2fa41.png)
+![android](https://user-images.githubusercontent.com/68285665/209777957-6c4a8c9d-277b-4c0a-9d90-26906c5be7db.png)
+
 
 </div>
 
