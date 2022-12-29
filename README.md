@@ -7,9 +7,6 @@
 |----|----|----|----|----|----|----|
 |`필수1`|:white_check_mark:||1. 요구사항 분석|SSAFY 생활|1학기와 2학기의 차이 & SSAFY GIT 실습|https://lab.ssafy.com/jungly5935/self-project/con13/rep01/0855094.zip|
 |`필수2`|:white_large_square:||1. 요구사항 분석|분석/설계|명세서의 요구사항 분석하여 시스템 설계하기|https://lab.ssafy.com/{교육생NameSpace}/self-project/con09/rep01/교육생번호.zip|
-|선택|:white_large_square:||[단계 추가]|[분야 추가]|[프로젝트 추가]||
-|선택|:white_large_square:||[단계 추가]|[분야 추가]|[프로젝트 추가]||
-|선택|:white_large_square:||[단계 추가]|[분야 추가]|[프로젝트 추가]||
 
 ---
  
@@ -18,9 +15,6 @@
 |----|----|----|----|----|----|----|
 |`필수3`|:white_large_square:||2. 설계|분석/설계|DB설계, ERD 작성 실습|https://lab.ssafy.com/{교육생NameSpace}/self-project/con15/rep01/교육생번호.zip|
 |`필수4`|:white_check_mark:||2. 설계|분석/설계|코딩 컨벤션 적용|https://lab.ssafy.com/jungly5935/self-project/con02/rep02/0855094.zip|
-|선택|:white_large_square:||[단계 추가]|[분야 추가]|[프로젝트 추가]||
-|선택|:white_large_square:||[단계 추가]|[분야 추가]|[프로젝트 추가]||
-|선택|:white_large_square:||[단계 추가]|[분야 추가]|[프로젝트 추가]||
 
 ---
 
@@ -29,20 +23,14 @@
 |----|----|----|----|----|----|----|
 |`필수5`|:white_large_square:||3. 개발|구현/개발|비동기 프로그래밍|https://lab.ssafy.com/{교육생NameSpace}/self-project/con14/rep01/교육생번호.zip|
 |`필수6`|:white_check_mark:||3. 개발|구현/개발|내 안드로이드 앱에 구글맵 띄우기|https://lab.ssafy.com/jungly5935/self-project/con03/rep01/0855094.zip|
-|선택|:white_large_square:||[단계 추가]|[분야 추가]|[프로젝트 추가]||
-|선택|:white_large_square:||[단계 추가]|[분야 추가]|[프로젝트 추가]||
-|선택|:white_large_square:||[단계 추가]|[분야 추가]|[프로젝트 추가]||
 
 ---
 
 ### 4일차
 |구분|진행상태|학습시간|단계|분야|과제명|제출 경로|
 |----|----|----|----|----|----|----|
-|`필수7`|:white_large_square:||3. 개발|구현/개발|멀티스레드 채팅 서버 구현|https://lab.ssafy.com/{교육생NameSpace}/self-project/con16/rep03/교육생번호.zip|
+|`필수7`|:white_check_mark:||3. 개발|구현/개발|멀티스레드 채팅 서버 구현|https://lab.ssafy.com/jungly5935/self-project/con16/rep03/0855094.zip|
 |`필수8`|:white_large_square:||3. 개발|구현/개발|Mysql Event Scheduler를 이용한 스케쥴러 개발|https://lab.ssafy.com/{교육생NameSpace}/self-project/con16/rep01/교육생번호.zip|
-|선택|:white_large_square:||[단계 추가]|[분야 추가]|[프로젝트 추가]||
-|선택|:white_large_square:||[단계 추가]|[분야 추가]|[프로젝트 추가]||
-|선택|:white_large_square:||[단계 추가]|[분야 추가]|[프로젝트 추가]||
 
 ---
 
@@ -51,9 +39,6 @@
 |----|----|----|----|----|----|----|
 |`필수9`|:white_large_square:||4. 테스트|테스트/유지보수|부하 테스트 도구를 이용한 웹 페이지 성능 측정|https://lab.ssafy.com/{교육생NameSpace}/self-project/con04/rep02/교육생번호.zip|
 |`필수10`|:white_large_square:||6. 유지보수|테스트/유지보수|유지보수를 위한 로깅(Logging)|https://lab.ssafy.com/{교육생NameSpace}/self-project/con12/rep02/교육생번호.zip|
-|선택|:white_large_square:||[단계 추가]|[분야 추가]|[프로젝트 추가]||
-|선택|:white_large_square:||[단계 추가]|[분야 추가]|[프로젝트 추가]||
-|선택|:white_large_square:||[단계 추가]|[분야 추가]|[프로젝트 추가]||
 
 
 ---
@@ -116,6 +101,16 @@
 </div>
 
 
+|구분|진행상태|학습시간|단계|분야|과제명|제출 경로|
+|----|----|----|----|----|----|----|
+|`필수7`|:white_check_mark:||3. 개발|구현/개발|멀티스레드 채팅 서버 구현|https://lab.ssafy.com/jungly5935/self-project/con16/rep03/0855094.zip|
+
+<div align="center">
+
+![socket](https://user-images.githubusercontent.com/68285665/209906805-3a159625-f61c-4e98-a4a8-0600f0815518.png)
+
+</div>
+
   
     
 ---
@@ -143,7 +138,7 @@
 |선택20|하|3. 개발|네트워크|SSAFY 스무고개 with REST|https://lab.ssafy.com/jungly5935/self-project/con11/rep03/0855094.zip|
 
 <div align="center">
-postman으로 아래와 같은 방식으로 1~20번 문제 post 요청
+postman으로 아래와 같은 방식으로 1~20번 문제 post 요청<br>
 <img width="507" alt="스크린샷 2022-12-29 오전 12 19 03" src="https://user-images.githubusercontent.com/68285665/209844197-33d24238-31c9-48cc-b5f7-70d7bcf53eaf.png">
 
 </div>
