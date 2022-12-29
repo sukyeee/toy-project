@@ -71,7 +71,7 @@
 |선택21|상|3. 개발|개발 공통|Vue의 데이터 전송 방법|https://lab.ssafy.com/{교육생NameSpace}/self-project/con13/rep02/교육생번호.zip|
 |선택22|하|3. 개발|DB|Mysql 프로시저 만들고 실행하기|https://lab.ssafy.com/{교육생NameSpace}/self-project/con15/rep03/교육생번호.zip|
 |선택23|하|3. 개발|IoT|LwM2M 프로토콜 오픈소스 빌드 및 실습|https://lab.ssafy.com/{교육생NameSpace}/self-project/con21/rep01/교육생번호.zip|
-|선택24|하|3. 개발|테스트|API 테스트 실습|https://lab.ssafy.com/{교육생NameSpace}/self-project/con19/rep01/교육생번호.zip|
+|선택24|하|3. 개발|테스트|API 테스트 실습|https://lab.ssafy.com/jungly5935/self-project/con19/rep01/0855094.zip|
 |선택25|중|3. 개발|모바일|나만의 CustomView만들기 (안드로이드)|https://lab.ssafy.com/{교육생NameSpace}/self-project/con03/rep02/교육생번호.zip|
 |선택26|하|4. 테스트|SW공학|1학기 관통 PJT 서비스에 대한 SW 테스트 케이스 제작|https://lab.ssafy.com/{교육생NameSpace}/self-project/con04/rep01/교육생번호.zip|
 |선택27|하|5. 배포|Infra|Jenkins + docker 를 활용한 CI/CD구축|https://lab.ssafy.com/{교육생NameSpace}/self-project/con07/rep03/교육생번호.zip|
@@ -122,7 +122,7 @@
 
 ![제목 없음](https://user-images.githubusercontent.com/68285665/209637092-50d4f485-272b-424c-b5f5-cd64e1ac6a63.jpg)
 
-|순번|난이도|단계|분야|과제명|과제경로|
+<!-- |순번|난이도|단계|분야|과제명|과제경로|
 |----|----|----|----|----|----|
 |선택12|중|3. 개발|웹|Vue를 이용하여 채팅구현|https://lab.ssafy.com/jungly5935/self-project/con05/rep01/0855094.zip|
 
@@ -130,7 +130,7 @@
 
 ![chat1](https://user-images.githubusercontent.com/68285665/209773296-7fc80a33-6b57-46a7-9a6f-d28284e937e2.png)
 ![chat2](https://user-images.githubusercontent.com/68285665/209773302-64f15372-2190-498b-a5ad-5990ecc140b1.png)
-</div>
+</div> -->
 
 
 |순번|난이도|단계|분야|과제명|과제경로|
@@ -142,3 +142,18 @@ postman으로 아래와 같은 방식으로 1~20번 문제 post 요청<br>
 <img width="507" alt="스크린샷 2022-12-29 오전 12 19 03" src="https://user-images.githubusercontent.com/68285665/209844197-33d24238-31c9-48cc-b5f7-70d7bcf53eaf.png">
 
 </div>
+
+
+|순번|난이도|단계|분야|과제명|과제경로|
+|----|----|----|----|----|----|
+|선택24|하|3. 개발|테스트|API 테스트 실습|https://lab.ssafy.com/jungly5935/self-project/con19/rep01/0855094.zip|
+
+<div align="center">
+1)카카오 - 키워드로 장소검색<br>
+<img width="845" alt="스크린샷 2022-12-29 오후 2 38 17" src="https://user-images.githubusercontent.com/68285665/209908107-834e2c90-d510-4178-aa1a-c35cee3558a2.png">
+<br>
+2)네이버 - 키워드로 장소검색<br>
+<img width="859" alt="스크린샷 2022-12-29 오후 5 45 13" src="https://user-images.githubusercontent.com/68285665/209926510-50e74e03-4689-4e86-8d28-245a26eff48d.png">
+</div>
+
+
