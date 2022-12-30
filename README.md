@@ -38,7 +38,7 @@
 |구분|진행상태|학습시간|단계|분야|과제명|제출 경로|
 |----|----|----|----|----|----|----|
 |`필수9`|:white_large_square:||4. 테스트|테스트/유지보수|부하 테스트 도구를 이용한 웹 페이지 성능 측정|https://lab.ssafy.com/{교육생NameSpace}/self-project/con04/rep02/교육생번호.zip|
-|`필수10`|:white_large_square:||6. 유지보수|테스트/유지보수|유지보수를 위한 로깅(Logging)|https://lab.ssafy.com/{교육생NameSpace}/self-project/con12/rep02/교육생번호.zip|
+|`필수10`|:white_check_mark:||6. 유지보수|테스트/유지보수|유지보수를 위한 로깅(Logging)|https://lab.ssafy.com/jungly5935/self-project/con12/rep02/0855094.zip|
 
 
 ---
@@ -111,7 +111,18 @@
 
 </div>
 
-  
+|구분|진행상태|학습시간|단계|분야|과제명|제출 경로|
+|----|----|----|----|----|----|----|
+|`필수10`|:white_check_mark:||6. 유지보수|테스트/유지보수|유지보수를 위한 로깅(Logging)|https://lab.ssafy.com/jungly5935/self-project/con12/rep02/0855094.zip|
+
+
+<div align="center">
+
+![스크린샷_20221230_122133](https://user-images.githubusercontent.com/68285665/210032525-43eb9ac9-a9de-474f-8d46-d32ee8e01982.png)
+![스크린샷_20221230_122301](https://user-images.githubusercontent.com/68285665/210032527-83057027-0517-4d17-a8f1-a04491950651.png)
+
+</div>
+
     
 ---
 ### 완료된 선택 과제

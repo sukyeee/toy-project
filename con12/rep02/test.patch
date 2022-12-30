@@ -1,0 +1,236 @@
+diff --git a/BackEnd/log/app.log b/BackEnd/log/app.log
+index 3b2dfb0..ab37d49 100644
+--- a/BackEnd/log/app.log
++++ b/BackEnd/log/app.log
+@@ -16,3 +16,77 @@
+ 2022-12-30 12:35:10.815  INFO 8996 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+ 2022-12-30 12:35:10.843  INFO 8996 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+ 2022-12-30 12:35:11.045  INFO 8996 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
++2022-12-30 12:35:49.728  INFO 8996 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
++2022-12-30 12:35:49.765  INFO 8996 --- [Thread-6] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
++2022-12-30 12:35:49.766  INFO 8996 --- [Thread-6] o.a.c.c.C.[Tomcat].[localhost].[/]       : Destroying Spring FrameworkServlet 'dispatcherServlet'
++2022-12-30 12:35:49.768  WARN 8996 --- [Thread-6] o.a.c.loader.WebappClassLoaderBase       : The web application [ROOT] appears to have started a thread named [HikariPool-1 housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
++ sun.misc.Unsafe.park(Native Method)
++ java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)
++ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source)
++ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)
++ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)
++ java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
++ java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
++ java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
++ java.lang.Thread.run(Unknown Source)
++2022-12-30 12:35:49.772  INFO 8996 --- [Thread-6] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
++2022-12-30 12:35:49.781  INFO 8996 --- [Thread-6] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
++2022-12-30 12:35:49.888  INFO 8996 --- [restartedMain] com.mycom.myapp.BackEndApplication       : Starting BackEndApplication using Java 1.8.0_351 on DESKTOP-SUKY with PID 8996 (C:\sk\where-is-my-home\BackEnd\bin\main started by USER in C:\sk\where-is-my-home\BackEnd)
++2022-12-30 12:35:49.888  INFO 8996 --- [restartedMain] com.mycom.myapp.BackEndApplication       : No active profile set, falling back to 1 default profile: "default"
++2022-12-30 12:35:50.020  INFO 8996 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
++2022-12-30 12:35:50.021  INFO 8996 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
++2022-12-30 12:35:50.021  INFO 8996 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.68]
++2022-12-30 12:35:50.025  INFO 8996 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
++2022-12-30 12:35:50.025  INFO 8996 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 136 ms
++2022-12-30 12:35:50.129  INFO 8996 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
++2022-12-30 12:35:50.172  INFO 8996 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
++2022-12-30 12:35:50.178  INFO 8996 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
++2022-12-30 12:35:50.182  INFO 8996 --- [restartedMain] com.mycom.myapp.BackEndApplication       : Started BackEndApplication in 0.308 seconds (JVM running for 45.82)
++2022-12-30 12:35:50.184  INFO 8996 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
++2022-12-30 12:35:54.727  INFO 8996 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
++2022-12-30 12:35:54.765  INFO 8996 --- [Thread-8] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
++2022-12-30 12:35:54.853  INFO 8996 --- [restartedMain] com.mycom.myapp.BackEndApplication       : Starting BackEndApplication using Java 1.8.0_351 on DESKTOP-SUKY with PID 8996 (C:\sk\where-is-my-home\BackEnd\bin\main started by USER in C:\sk\where-is-my-home\BackEnd)
++2022-12-30 12:35:54.853  INFO 8996 --- [restartedMain] com.mycom.myapp.BackEndApplication       : No active profile set, falling back to 1 default profile: "default"
++2022-12-30 12:35:54.978  INFO 8996 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
++2022-12-30 12:35:54.978  INFO 8996 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
++2022-12-30 12:35:54.978  INFO 8996 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.68]
++2022-12-30 12:35:54.983  INFO 8996 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
++2022-12-30 12:35:54.983  INFO 8996 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 128 ms
++2022-12-30 12:35:55.068  INFO 8996 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
++2022-12-30 12:35:55.101  INFO 8996 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
++2022-12-30 12:35:55.108  INFO 8996 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
++2022-12-30 12:35:55.110  INFO 8996 --- [restartedMain] com.mycom.myapp.BackEndApplication       : Started BackEndApplication in 0.27 seconds (JVM running for 50.748)
++2022-12-30 12:35:55.111  INFO 8996 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
++2022-12-30 12:36:03.142  INFO 8996 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
++2022-12-30 12:36:03.142  INFO 8996 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
++2022-12-30 12:36:03.143  INFO 8996 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
++2022-12-30 12:36:03.145  INFO 8996 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...
++2022-12-30 12:36:03.153  INFO 8996 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Start completed.
++2022-12-30 12:36:03.154 DEBUG 8996 --- [http-nio-8080-exec-1] com.mycom.myapp.user.dao.LoginDao.login  : ==>  Preparing: select user_id, user_name, user_nickname, user_password, user_email, user_profile_image_url, user_register_date, code from users where user_email = ?
++2022-12-30 12:36:03.158 DEBUG 8996 --- [http-nio-8080-exec-1] com.mycom.myapp.user.dao.LoginDao.login  : ==> Parameters: sk(String)
++2022-12-30 12:36:03.161 DEBUG 8996 --- [http-nio-8080-exec-1] com.mycom.myapp.user.dao.LoginDao.login  : <==      Total: 1
++2022-12-30 12:36:03.161 DEBUG 8996 --- [http-nio-8080-exec-1] c.m.m.user.service.LoginServiceImple     : DEGUG 로그 메시지
++2022-12-30 12:36:06.504  INFO 8996 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
++2022-12-30 12:36:06.558  INFO 8996 --- [RMI TCP Connection(2)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
++2022-12-30 12:36:06.559  INFO 8996 --- [RMI TCP Connection(2)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Destroying Spring FrameworkServlet 'dispatcherServlet'
++2022-12-30 12:36:06.562  WARN 8996 --- [RMI TCP Connection(2)-127.0.0.1] o.a.c.loader.WebappClassLoaderBase       : The web application [ROOT] appears to have started a thread named [HikariPool-2 housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
++ sun.misc.Unsafe.park(Native Method)
++ java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)
++ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source)
++ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)
++ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)
++ java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
++ java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
++ java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
++ java.lang.Thread.run(Unknown Source)
++2022-12-30 12:36:06.562  WARN 8996 --- [RMI TCP Connection(2)-127.0.0.1] o.a.c.loader.WebappClassLoaderBase       : The web application [ROOT] appears to have started a thread named [HikariPool-2 connection adder] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
++ sun.misc.Unsafe.park(Native Method)
++ java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)
++ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source)
++ java.util.concurrent.LinkedBlockingQueue.poll(Unknown Source)
++ java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
++ java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
++ java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
++ java.lang.Thread.run(Unknown Source)
++2022-12-30 12:36:06.566  INFO 8996 --- [RMI TCP Connection(2)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown initiated...
++2022-12-30 12:36:06.575  INFO 8996 --- [RMI TCP Connection(2)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown completed.
+index 4dff9ef..f0e118b 100644
+--- a/BackEnd/src/main/java/com/mycom/myapp/user/service/LoginServiceImple.java
++++ b/BackEnd/src/main/java/com/mycom/myapp/user/service/LoginServiceImple.java
+@@ -1,39 +1,43 @@
+-package com.mycom.myapp.user.service;
+-
+-import org.springframework.beans.factory.annotation.Autowired;
+-import org.springframework.stereotype.Service;
+-
+-import com.mycom.myapp.user.dao.LoginDao;
+-import com.mycom.myapp.user.dto.UserDto;
+-
+-@Service
+-public class LoginServiceImple implements LoginService {
+-
+-
+-	@Autowired
+-	LoginDao loginDao;
+-
+-	@Override
+-	public UserDto login(UserDto dto) {
+-		UserDto userDto = loginDao.login(dto.getUserEmail());
+-		// userDto 는 테이블에서 조회한 데이터가 포함
+-		// dto 는 client 가 전송한 데이터가 포함 
+-		
+-		if( userDto != null && userDto.getUserPassword().equals(dto.getUserPassword())) {
+-			System.out.println("222222왜갑자기안돼!!!!!!!!!!" + dto);
+-			
+-			return userDto;	
+-		}
+-		
+-		return null;
+-		
+-	}
+-
+-	@Override
+-	public UserDto findPassword(String userEmail) {
+-		return loginDao.findPassword(userEmail);
+-	}
+-	
+-	
+-
+-}
++package com.mycom.myapp.user.service;
++
++import org.springframework.beans.factory.annotation.Autowired;
++import org.springframework.stereotype.Service;
++
++import com.mycom.myapp.user.dao.LoginDao;
++import com.mycom.myapp.user.dto.UserDto;
++import org.slf4j.Logger;
++import org.slf4j.LoggerFactory;
++
++@Service
++public class LoginServiceImple implements LoginService {
++
++    
++    private Logger logger = LoggerFactory.getLogger(LoginServiceImple.class);
++
++	@Autowired
++	LoginDao loginDao;
++
++	@Override
++	public UserDto login(UserDto dto) {
++		UserDto userDto = loginDao.login(dto.getUserEmail());
++		// userDto 는 테이블에서 조회한 데이터가 포함
++		// dto 는 client 가 전송한 데이터가 포함 
++		
++		if( userDto != null && userDto.getUserPassword().equals(dto.getUserPassword())) {
++//			System.out.println("222222왜갑자기안돼!!!!!!!!!!");
++			logger.debug("DEGUG 로그 메시지");
++			return userDto;	
++		}
++		
++		return null;
++		
++	}
++
++	@Override
++	public UserDto findPassword(String userEmail) {
++		return loginDao.findPassword(userEmail);
++	}
++	
++	
++
++}
+diff --git a/BackEnd/src/main/resources/application.properties b/BackEnd/src/main/resources/application.properties
+index 9bb25b7..f1a3afd 100644
+--- a/BackEnd/src/main/resources/application.properties
++++ b/BackEnd/src/main/resources/application.properties
+@@ -1,31 +1,32 @@
+-# log
+-logging.level.root=info
+-logging.level.com.mycom.myapp.house.dao=debug
+-logging.level.com.mycom.myapp.review.dao=debug
+-logging.level.com.mycom.myapp.event.*=debug
+-logging.level.com.mycom.myapp.notice.*=debug
+-logging.file.name=log/app.log
+-logging.logback.rollingpolicy.max-file-size=1MB
+-logging.logback.rollingpolicy.file-name-pattern=${LOG_FILE}.%d{yyyy-MM-dd}-%i.log
+-
+-# mybatis
+-mybatis.config-location=classpath:/config/mybatis-config.xml
+-
+-# data source 
+-spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+-spring.datasource.url=jdbc:mysql://localhost:3306/my_house?serverTimezone=Asia/Seoul
+-spring.datasource.username=root
+-spring.datasource.password=1234
+-
+-# file-upload
+-spring.servlet.multipart.enabled=true
+-spring.servlet.multipart.max-file-size=200MB
+-
+-# gson
+-spring.mvc.converters.preferred-json-mapper=gson
+-
+-# app
+-app.fileupload.uploadPath=C:\\SSAFY\\final-project\\BackEnd\\src\\main\\resources\\static
+-#app.fileupload.uploadPath=C:\\Users\\JCW\\Workspace\\ssafy_final_project\\BackEnd\\src\\main\\resources\\static
+-#app.fileupload.uploadPath.mac=/Users/yeomss/Repository/Github/Boot-Project/Samsung-SW-Academy/FirstSemester/Spring-Basic/BoardFileUploadSpringBootMybatis/src/main/resources/static/
+-app.fileupload.uploadDir=upload
++# log
++logging.level.root=info
++#logging.level.com.mycom.myapp.house.dao=debug
++#logging.level.com.mycom.myapp.review.dao=debug
++#logging.level.com.mycom.myapp.event.*=debug
++#logging.level.com.mycom.myapp.notice.*=debug
++logging.level.com.mycom.myapp.user.*=debug
++logging.file.name=log/app.log
++logging.logback.rollingpolicy.max-file-size=1MB
++logging.logback.rollingpolicy.file-name-pattern=${LOG_FILE}.%d{yyyy-MM-dd}-%i.log
++
++# mybatis
++mybatis.config-location=classpath:/config/mybatis-config.xml
++
++# data source 
++spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
++spring.datasource.url=jdbc:mysql://localhost:3306/my_house?serverTimezone=Asia/Seoul
++spring.datasource.username=root
++spring.datasource.password=1234
++
++# file-upload
++spring.servlet.multipart.enabled=true
++spring.servlet.multipart.max-file-size=200MB
++
++# gson
++spring.mvc.converters.preferred-json-mapper=gson
++
++# app
++app.fileupload.uploadPath=C:\\SSAFY\\final-project\\BackEnd\\src\\main\\resources\\static
++#app.fileupload.uploadPath=C:\\Users\\JCW\\Workspace\\ssafy_final_project\\BackEnd\\src\\main\\resources\\static
++#app.fileupload.uploadPath.mac=/Users/yeomss/Repository/Github/Boot-Project/Samsung-SW-Academy/FirstSemester/Spring-Basic/BoardFileUploadSpringBootMybatis/src/main/resources/static/
++app.fileupload.uploadDir=upload
